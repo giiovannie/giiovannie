@@ -41,6 +41,22 @@ Actualmente trabajo con:
 
 ---
 
+<h2 align="center">Mis contribuciones</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/giiovannie/giiovannie/output/github-snake-dark.svg"
+    />
+    <img
+      alt="Animación de contribuciones"
+      src="https://raw.githubusercontent.com/giiovannie/giiovannie/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+
 ## Contacto
 
 <p align="center">
