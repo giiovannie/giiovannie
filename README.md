@@ -130,6 +130,13 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
   <a href="https://github.com/giiovannie">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://es.fiverr.com/s/aeey47W">
+    <img
+      src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"
+      alt="Fiverr"
+    />
+  </a>
+
 </p>
 
 <p align="center">
