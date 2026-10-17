@@ -54,20 +54,21 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
 
 <!-- BACKEND -->
 
+
 <h3 align="center">Backend Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://cdn.simpleicons.org/sequelize/52B0E7"
+       width="48" height="48" alt="Sequelize" />
+  <img src="https://cdn.simpleicons.org/mongoose/880000"
+       width="48" height="48" alt="Mongoose" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Express_Validator-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  Node.js · Express.js · Express Validator · Sequelize · Mongoose
 </p>
 
-<p align="center">
-  Node.js · Express.js · Express Validator · Sequelize
-</p>
 
 <!-- BASES DE DATOS -->
 
@@ -83,16 +84,19 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
 
 <!-- DATA SCIENCE -->
 
+
 <h3 align="center">Data Science & Python</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF"
+       width="48" height="48" alt="Pandas" />
 </p>
 
 <p align="center">
   Python · Pandas · Análisis y procesamiento de datos
 </p>
+
 
 <!-- HERRAMIENTAS -->
 
@@ -183,9 +187,13 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
 
 <!-- CONTACTO -->
 
+
 <h2 align="center">Conectemos</h2>
 
 <p align="center">
+  <a href="mailto:ivanemmanuelgome2017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/ivan-gomez-206896442/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -196,6 +204,13 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:ivanemmanuelgome2017@gmail.com">
+    ivanemmanuelgome2017@gmail.com
+  </a>
+</p>
+
 
 ---
 
