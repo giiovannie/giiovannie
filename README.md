@@ -56,6 +56,19 @@ Actualmente trabajo con:
   </picture>
 </p>
 
+---
+
+
+<h2 align="center">Mi actividad en GitHub</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=giiovannie&bg_color=0D1117&color=E6EDF3&line=06B6D4&point=22D3EE&area=true&area_color=164E63&hide_border=true"
+    alt="Gráfico de actividad de Giovannie"
+    width="100%"
+  />
+</p>
+
 
 ## Contacto
 
