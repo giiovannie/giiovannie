@@ -68,6 +68,18 @@ Actualmente trabajo con:
   />
 </p>
 
+---
+
+
+<h2 align="center">Mis rachas de contribuciones</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=giiovannie&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4"
+    alt="Rachas de contribuciones de Giovannie"
+  />
+</p>
+
 
 
 ## Contacto
