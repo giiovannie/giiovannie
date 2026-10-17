@@ -1,5 +1,5 @@
 
-name: Generate Snake Animation
+name: Generate Profile Graphics
 
 on:
   workflow_dispatch:
@@ -12,7 +12,11 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -21,7 +25,15 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%2306b6d4
 
-      - name: Publish Snake
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: giiovannie
+          options: "bg_color=0D1117&color=E6EDF3&line=06B6D4&point=22D3EE&area=true&area_color=164E63&hide_border=true"
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish Graphics
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
