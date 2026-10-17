@@ -112,6 +112,33 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
 
 ---
 
+<!-- CONTACTO -->
+
+
+<h2 align="center">Conectemos</h2>
+
+<p align="center">
+  <a href="mailto:ivanemmanuelgome2017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-gomez-206896442/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/van__gz/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/giiovannie">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:ivanemmanuelgome2017@gmail.com">
+    ivanemmanuelgome2017@gmail.com
+  </a>
+</p>
+
+--- 
 <!-- ESTADÍSTICAS -->
 
 <h2 align="center">Estadísticas de GitHub</h2>
@@ -185,31 +212,6 @@ Actualmente continúo aprendiendo nuevas tecnologías y aplicándolas en proyect
 
 ---
 
-<!-- CONTACTO -->
-
-
-<h2 align="center">Conectemos</h2>
-
-<p align="center">
-  <a href="mailto:ivanemmanuelgome2017@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ivan-gomez-206896442/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/van__gz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/giiovannie">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:ivanemmanuelgome2017@gmail.com">
-    ivanemmanuelgome2017@gmail.com
-  </a>
-</p>
 
 
 ---
